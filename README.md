@@ -23,9 +23,9 @@ Features implemented in plugin:
   
   * Show Reading Time in Theme
       1) Using the shortcode [reading_time] in post content
-      2) By calling a php function named `the_reading_time()'
+      2) By calling a php function named `the_reading_time()
       3) By echoing the return value of a php function named `get_reading_time()`
-      4) When embedded with shortcode – the value should be rendered wrapped in 
+      5) When embedded with shortcode – the value should be rendered wrapped in
           HTML, including a label. The classes used in the HTML should be filterable 
           using custom hooks
       5) [BONUS] Make the label managed in the admin settings page
