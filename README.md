@@ -1,6 +1,8 @@
 # reading-time
 The plugin writer is :roee parash
+
 The plugin writer's email is :roee711@gmail.com
+
 The plugin should allow user to add a “Reading Time” feature to his blog  posts
 
 Features implemented in plugin:
