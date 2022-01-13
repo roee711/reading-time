@@ -36,12 +36,17 @@ Features implemented in plugin:
   
      1)Make the plugin’s admin fully translated using WordPress’ localization 
       guidelines
+      
     2) Create the following custom commands for managing the plugin using WP CLI
       a)wp reading-time config get – Show the values of the setting
+      
       b)wp reading-time config set CONFIG VALUE – Update the value of a setting
+      
       c)  wp reading-time clear-cache – Clear previous calculation and force 
 recalculation for all posts
+
     d) wp reading-time get PID – Show the calculated reading time value for a 
 specific post
+
 
    
