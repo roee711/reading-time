@@ -31,6 +31,7 @@ Features implemented in plugin:
       5) [BONUS] Make the label managed in the admin settings page
 
   * More Bonus Feature
+  
      1)Make the plugin’s admin fully translated using WordPress’ localization 
       guidelines
     2) Create the following custom commands for managing the plugin using WP CLI
