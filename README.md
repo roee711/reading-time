@@ -18,6 +18,7 @@ Features implemented in plugin:
     recalculated as needed.
 
 * Reading Time calculation process
+* The ”Reading Time” value should be calculated and cached (stored for future use) on the following events:
     1) Once the post is created
     2) When a post is updated (by using either the Admin, or the official WordPress php functions - such as wp_update_post
     3) When the reading time is requested (e.g. for showing in theme), and no previous value exists (To support reading time for posts that are already in the system once the            plugin is activated, or after settings change)
